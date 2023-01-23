@@ -14,11 +14,11 @@
 ### 👨‍💻: Sobre mí :
 
 :heavy_check_mark: Soy un Médico graduado de la Universidad de Buenos Aires y Científico de Datos con interés en aplicar mis conocimientos de tecnología en diversos campos. 
-Constantemente busco nuevas oportunidades de aprendizaje y crecimiento profesional, y estoy entusiasmado con la posibilidad de aplicar mis habilidades y conocimientos tanto en el ámbito médico como en otras areas.
+Constantemente busco nuevas oportunidades de aprendizaje y crecimiento profesional, y estoy entusiasmado con la posibilidad de aplicar mis habilidades y conocimientos tanto en el ámbito médico como en otras áreas.
    
-:heavy_check_mark: Estoy realizando la Maestria en Ciencia de Datos en la Universidad Austral.
+:heavy_check_mark: Estoy realizando la Maestría en Ciencia de Datos en la Universidad Austral.
    
-:heavy_check_mark: Apasionado del Machine Learning y todas sus aplicaciones. Siempre estoy buscando nuevos avances en el area.
+:heavy_check_mark: Apasionado del Machine Learning y todas sus aplicaciones. Siempre estoy buscando nuevos avances en el área.
 
  ---
    
