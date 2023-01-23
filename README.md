@@ -2,14 +2,9 @@
   <img src="https://github.com/JuanPabloAnselmo/JuanPabloAnselmo/blob/main/Banner%20Github.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
-
 <div id="header" align="center">
     <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-<div id="badges" align="center">
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JuanPabloAnselmo&color=00cf00" alt=""/>
   
  <h1>
   Hola soy Juan Pablo. ¡Encantado de conocerte!
@@ -27,6 +22,8 @@ Constantemente busco nuevas oportunidades de aprendizaje y crecimiento profesion
 :heavy_check_mark: Estoy realizando la Maestria en Ciencia de Datos en la Universidad Austral.
    
 :heavy_check_mark: Apasionado del Machine Learning y todas sus aplicaciones. Siempre estoy buscando nuevos avances en el area.
+
+ ---
    
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
