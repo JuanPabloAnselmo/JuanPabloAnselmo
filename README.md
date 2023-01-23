@@ -2,9 +2,10 @@
   <img src="https://github.com/JuanPabloAnselmo/JuanPabloAnselmo/blob/main/Banner%20Github.png" width="800"/>
 </div>
 
-<div id="header" align="center">
+<p align="center">
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
- </div>
+</p>
+
 
 <div id="badges" align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JuanPabloAnselmo&color=00cf00" alt=""/>
