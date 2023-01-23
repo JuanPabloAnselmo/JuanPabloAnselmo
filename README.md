@@ -2,14 +2,11 @@
   <img src="https://github.com/JuanPabloAnselmo/JuanPabloAnselmo/blob/main/Banner%20Github.png" width="800"/>
 </div>
 
-<div id="header" align="center">
-    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center"> <a href="https://www.linkedin.com/in/juan-pablo-anselmo/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
   
- <h1>
-  Hola soy Juan Pablo. ¡Encantado de conocerte!
+ <h3 align="center"> Hola soy Juan Pablo. ¡Encantado de conocerte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
   
  ---
  <div id="header" align="left">
